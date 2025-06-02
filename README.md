@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="" height="190px" src="./src/programandogif.gif">
+<img align="right" alt="Programando" height="190px" src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif">
 
 <h3 align="left">Entre em contato!</h3>
 
