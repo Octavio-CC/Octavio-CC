@@ -9,7 +9,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="center" style="max-width: 900px; margin: auto;">
   <table width="100%">
     <tr>
       <td align="left" width="60%">
@@ -22,19 +22,18 @@
         </a>
         <br><br>
         <h3>🧰 My Stack ~</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
       </td>
       <td align="center" width="40%">
-        <img src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif" width="250px" alt="Programando GIF"/>
+        <img src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif" width="300px" alt="Programando GIF"/>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
