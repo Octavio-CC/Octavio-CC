@@ -17,7 +17,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:octaviocc0161@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.linkedin.com/in/octaviocoelho/)
 
-<h3 align="left">Meus Conhecimentos ~</h3>
+<h3 align="left">Meus Conhecimentos </h3>
 
 <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
