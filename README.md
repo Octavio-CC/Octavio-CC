@@ -35,5 +35,3 @@
 
 ---
 
-![snake gif](https://github.com/Octavio-CC/Octavio-CC/blob/output/github-contribution-grid-snake.svg)
-
