@@ -9,27 +9,25 @@
 </p>
 
 ---
+<h3 align="left">🧰 Linguagens:</h3>
 
-<h3 align="center">📬 Entre em contato comigo:</h3>
-
-<p align="center">
-  <a href="mailto:octaviocc0161@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2863BB?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/octaviocoelho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2863BB?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
 </p>
 
----
+<h3 align="left">📬 Entre em contato comigo:</h3>
 
-<h3 align="center">🧰 Linguagens:</h3>
-
-<p align="center">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p align="left">
+  <a href="mailto:octaviocc0161@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-2863BB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/octaviocoelho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2863BB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
