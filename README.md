@@ -9,26 +9,35 @@
 </p>
 
 ---
-<h3 align="left">🧰 Linguagens:</h3>
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-</p>
+  <div align="left">
 
-<h3 align="left">📬 Entre em contato comigo:</h3>
+  <h3>📬 Connect with me!</h3>
 
-<p align="left">
   <a href="mailto:octaviocc0161@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2863BB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/octaviocoelho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2863BB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+
+  <h3>🧰 My Stack ~</h3>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+
+  </div>
+
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif" width="300px" alt="Programando GIF"/>
+  </div>
+
+</div>
+
 
 ---
 
@@ -38,6 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Octavio-CC&show_icons=true&theme=github_dark&title_color=2863BB&icon_color=2863BB&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=pt-br" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio-CC&layout=compact&theme=github_dark&title_color=2863BB&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=pt-br" />
 </p>
+
 
 ---
 
