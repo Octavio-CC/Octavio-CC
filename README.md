@@ -1,23 +1,23 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2863BB&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Sou+o+Octavio" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR. Atualmente estudando Java e em busca de um estágio!
+<p align="left">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR. Atualmente estudando Java e estou em busca de um estágio!
 </p>
 
 ---
 
 <img align="right" alt="Programando" height="190px" src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif">
 
-<h3 align="left">Entre em contato!</h3>
+<h3 align="left">Entre em contato:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:octaviocc0161@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.linkedin.com/in/octaviocoelho/)
 
-<h3 align="left">Meus Conhecimentos </h3>
+<h3 align="left">Meus Conhecimentos: </h3>
 
 <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
