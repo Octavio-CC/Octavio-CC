@@ -9,30 +9,22 @@
 </p>
 
 ---
-<div align="center" style="max-width: 900px; margin: auto;">
-  <table width="100%">
-    <tr>
-      <td align="left" width="60%">
-        <h3>📬 Connect with me!</h3>
-        <a href="mailto:octaviocc0161@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-2863BB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-        <a href="https://www.linkedin.com/in/octaviocoelho/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-2863BB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <br><br>
-        <h3>🧰 My Stack ~</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-      </td>
-      <td align="center" width="40%">
-        <img src="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/main/programandogif.gif" width="300px" alt="Programando GIF"/>
-      </td>
-    </tr>
-  </table>
+
+<img align="right" alt="" height="190px" src="./src/programandogif.gif">
+
+<h3 align="left">Entre em contato!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:octaviocc0161@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.linkedin.com/in/octaviocoelho/)
+
+<h3 align="left">Meus Conhecimentos ~</h3>
+
+<div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
 </div>
 
 ---
