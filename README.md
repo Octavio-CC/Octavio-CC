@@ -29,16 +29,6 @@
 
 ---
 
-<h3 align="center">📊 Status do GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Octavio-CC&show_icons=true&theme=github_dark&title_color=2863BB&icon_color=2863BB&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio-CC&layout=compact&theme=github_dark&title_color=2863BB&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=pt-br" />
-</p>
-
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Octavio-CC/Octavio-CC/output/github-contribution-grid-snake-dark.svg">
